@@ -3,6 +3,8 @@
 ![pic1](media/main.jpg)
 ![pic1](media/in-action.jpg)
 
+![pic1](media/full-build.jpg)
+
 - Connect a RS485 serial interface to a Bluetooth device (like a smartphone);
 - Fully programmable function thanks to an ATMEGA microcontroller, easily accessible through 6-pin header;
 - Industrial-grade components with lot of redundancy;
